@@ -1,4 +1,7 @@
-![RIO Group logo](imgs/riotext.png)
+<div align='left' style="width:400px;height:120px;overflow:hidden;">
+<img align='left' style='display: block;height: 92%' src='imgs/riotext.png' alt='RIO logo' title='RIO logo'/>
+</div>
+
 # A machine learning course with Jupyter/IPython
 
 ![Python 3.x](https://img.shields.io/badge/python-3.x-green.svg)
