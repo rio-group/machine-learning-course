@@ -1,4 +1,5 @@
-# RIO Group machine learning course with Jupyter/IPython
+![RIO Group logo](imgs/riotext.png)
+# A machine learning course with Jupyter/IPython
 
 ![Python 3.x](https://img.shields.io/badge/python-3.x-green.svg)
 [![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)](http://nbviewer.jupyter.org/github/rio-group/machine-learning-course/tree/master/)
