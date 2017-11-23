@@ -1,9 +1,8 @@
 # RIO Group machine learning course with Jupyter/IPython
 
 ![Python 3.x](https://img.shields.io/badge/python-3.x-green.svg)
-[![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)](http://nbviewer.jupyter.org/github/lmarti/machine-learning/tree/master/)
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/lmarti/machine-learning)
-[![Class site](https://img.shields.io/badge/class%20site-lmarti.com%2Fml--2017--1-blue.svg?colorB=428bca)](http://lmarti.com/ml-2017-1)
+[![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)](http://nbviewer.jupyter.org/github/rio-group/machine-learning-course/tree/master/)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495739.svg)](https://doi.org/10.5281/zenodo.495739)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
