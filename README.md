@@ -1,6 +1,5 @@
-<div align='left' style="width:400px;height:120px;overflow:hidden;">
-<img align='left' style='display: block;height: 92%' src='imgs/riotext.png' alt='RIO logo' title='RIO logo'/>
-</div>
+<img align='left' style='display: block;' width='190px' src='imgs/riotext.png' alt='RIO logo' title='RIO logo'/>
+<br/>
 
 # A machine learning course with Jupyter/IPython
 
