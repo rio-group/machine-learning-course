@@ -1,7 +1,9 @@
 numpy
 scikit-learn
 scipy
-theano
 ipywidgets
 matplotlib
 pandas
+tensorflow
+tensorboard
+tdqm

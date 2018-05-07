@@ -100,4 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-data/mnist.pkl.gz
+/data
+/logs
